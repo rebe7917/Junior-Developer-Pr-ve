@@ -16,8 +16,8 @@ Implementér en responsiv sektion med tekst og ikoner i henhold til det medfølg
 
 - **CTA-knap**: Tilføj en call-to-action-knap i kolonnen "Hurtig levering"
 - **Pop-up Indhold**: Når der klikkes, skal knappen åbne en pop-up med:
-  **Overskrift**: Hurtig levering 🚀  
-  **Indhold**:
+    - **Overskrift**: Hurtig levering 🚀
+    - **Indhold**:
 
 ```text
   Vi sender lynhurtigt, så du får dine varer uden unødig ventetid! 📦✨
@@ -27,7 +27,7 @@ Implementér en responsiv sektion med tekst og ikoner i henhold til det medfølg
   Bestil inden kl 15, og så sender vi dine vare afsted allerede i dag 🚚
 ```
 
-## Ekstra Funktioner (Ikke påkrævet at udføre)
+## Ekstra Funktioner (Ikke krav)
 
 1. **Animation**:
     - Tilføj diskrete animationer som fade-in-effekter
